@@ -32,7 +32,7 @@ void main() {
                 Text(
                   'PIKAPIKAHIKARU\'S MOM',
                   style: TextStyle(
-                    color: Colors.teal[100],
+                    color: Colors.purple[100],
                     fontFamily: 'SourceSansPro',
                     fontSize: 20,
                     letterSpacing: 2.5,
@@ -45,12 +45,12 @@ void main() {
                     child: ListTile(
                       leading: Icon(
                         Icons.phone,
-                        color: Colors.teal,
+                        color: Colors.purple,
                       ),
                       title: Text(
                         '012 345 6789',
                         style: TextStyle(
-                          color: Colors.teal[900],
+                          color: Colors.purple[900],
                           fontFamily: 'SourceSansPro',
                           fontSize: 20,
                         ),
@@ -64,12 +64,12 @@ void main() {
                     child: ListTile(
                       leading: Icon(
                         Icons.email,
-                        color: Colors.teal,
+                        color: Colors.purple,
                       ),
                       title: Text(
                         'lsun1@uco.edu',
                         style: TextStyle(
-                          color: Colors.teal[900],
+                          color: Colors.purple[900],
                           fontFamily: 'SourceSansPro',
                           fontSize: 20,
                         ),
@@ -83,12 +83,12 @@ void main() {
                     child: ListTile(
                       leading: Icon(
                         Icons.public,
-                        color: Colors.teal,
+                        color: Colors.purple,
                       ),
                       title: Text(
                         'LFsolar.github.io',
                         style: TextStyle(
-                          color: Colors.teal[900],
+                          color: Colors.purple[900],
                           fontFamily: 'SourceSansPro',
                           fontSize: 20,
                         ),
