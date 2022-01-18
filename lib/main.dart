@@ -7,10 +7,11 @@ void main() {
         decoration: BoxDecoration(
           image: const DecorationImage(
             image: AssetImage('images/cubes.jpg'),
+            fit: BoxFit.cover,
           ),
         ),
         child: Scaffold(
-          backgroundColor: Colors.teal,
+          backgroundColor: Colors.transparent,
           body: SafeArea(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
